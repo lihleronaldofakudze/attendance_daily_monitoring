@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812465388229",
+    "project_id": "lihle-upwork",
+    "storage_bucket": "lihle-upwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812465388229:android:7d9f290e93c98f22b74eac",
+        "android_client_info": {
+          "package_name": "io.cloutdevelopers.attendance_daily_monitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812465388229-kutm15qaenj0livtocsnbq4hqe5gudoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEzkrRDlunDo5JS0l9QKKQzJVt70zfcWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812465388229-kutm15qaenj0livtocsnbq4hqe5gudoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
